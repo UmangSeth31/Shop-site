@@ -1,0 +1,36 @@
+h1{
+    background-color: lightpink;
+    width:100%;
+    font-size: 35px;
+
+}
+a:visited
+{
+    color: mediumseagreen;
+}
+a:hover
+{
+    color: indianred;
+
+}
+a:active
+{
+
+    color: grey;
+}
+a{
+    font-size: 20px;
+}
+#header{
+    position: static;
+    background-color: lightblue;
+}
+.c1{
+    font-size: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.c2{
+    border-style: groove;
+    border-width: 5px;
+    background-image: url("https://media.istockphoto.com/vectors/holiday-gift-background-vector-id1270158776?k=6&m=1270158776&s=612x612&w=0&h=SjV8-jC_W4XNmJc_CyWltGzlBb4ERqZdu2TI8i2abp4=");
+}
